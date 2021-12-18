@@ -12,5 +12,9 @@
   "scripts": {
     "test": "node src/example.spec.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:piecioshka/boilerplate-assert.git"
+  },
   "type": "module"
 }
