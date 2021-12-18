@@ -1,8 +1,14 @@
 {
   "private": true,
-  "name": "assert",
-  "version": "0.0.0",
+  "name": "boilerplate-assert",
   "description": "",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Piotr Kowalski",
+    "email": "piecioshka@gmail.com",
+    "url": "https://piecioshka.pl/"
+  },
   "scripts": {
     "test": "node src/example.spec.js"
   },

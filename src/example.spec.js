@@ -1,6 +1,6 @@
 import { strict as assert } from "assert";
 
-import { Example } from "../src/example.js";
+import { Example } from "./example.js";
 
 // sync
 const o1 = new Example();
