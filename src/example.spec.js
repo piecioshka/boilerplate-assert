@@ -1,5 +1,4 @@
 import { strict as assert } from "assert";
-
 import { Example } from "./example.js";
 
 // sync
