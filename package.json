@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "assert",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "test": "node src/example.spec.js"
+  },
+  "type": "module"
+}
