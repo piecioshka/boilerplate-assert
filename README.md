@@ -11,3 +11,7 @@
 ```bash
 npm test
 ```
+
+## License
+
+[The MIT License](https://piecioshka.mit-license.org) @ 2021
